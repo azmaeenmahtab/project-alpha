@@ -1,0 +1,81 @@
+.dekstop-width {
+    /* max-width: 1440px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.font-pp {
+    font-family: "Poppins", serif;
+}
+
+.headSection {
+    background-color: rgba(78, 195, 249, 0.08);
+    background-image: url(../images/bg-hero-desktop.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 60px;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.heading1 {
+    font-size: 40px;
+}
+
+.heading2 {
+    font-size: 30px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+.pinkBtn {
+    color: white;
+    background-color: rgb(255, 81, 191);
+    border: none;
+    border-radius: 20px;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.whiteBtn {
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    ;
+}
+
+.banner {
+    display: flex;
+    gap: 150px;
+    max-width: 1200px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.banner-holder {
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
