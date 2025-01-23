@@ -124,6 +124,11 @@
     padding-left: 100px;
 }
 
+.cols-holder {
+    display: flex;
+    align-items: center;
+}
+
 ul li {
     margin-bottom: 20px;
 }
