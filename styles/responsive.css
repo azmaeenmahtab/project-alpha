@@ -8,8 +8,8 @@
     }
 
     .header {
-        padding-right: 10px;
-        padding-left: 10px;
+        padding-right: 20px;
+        padding-left: 20px;
 
     }
 
@@ -95,5 +95,15 @@
         text-align: center;
         justify-content: center;
         padding-bottom: 30px;
+    }
+
+    .whiteBtn {
+
+        padding: 10px;
+
+    }
+
+    .head-pic {
+        width: 50%;
     }
 }
