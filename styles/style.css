@@ -129,6 +129,18 @@
     align-items: center;
 }
 
+.icon-div {
+    display: flex;
+    gap: 30px;
+    flex: 1;
+}
+
+.last-para {
+    display: flex;
+    justify-content: end;
+    font-size: smaller;
+}
+
 ul li {
     margin-bottom: 20px;
 }
