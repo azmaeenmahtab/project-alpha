@@ -17,6 +17,13 @@
 
 }
 
+.head-banner {
+    display: flex;
+    gap: 200px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -64,6 +71,11 @@
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     ;
     font-weight: bold;
+}
+
+#second-banner {
+    display: flex;
+    flex-direction: row-reverse
 }
 
 .banner {

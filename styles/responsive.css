@@ -1,0 +1,48 @@
+@media (max-width: 376px) {
+    .head-banner {
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        padding-right: 20px;
+        gap: 50px;
+    }
+
+    .header {
+        padding-right: 10px;
+        padding-left: 10px;
+
+    }
+
+    .head-banner-pic {
+        width: 100%;
+    }
+
+    .heading1 {
+        font-size: 30px;
+    }
+
+    .btn-div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .banner {
+        display: flex;
+        flex-direction: column;
+        gap: 150px;
+        max-width: 1200px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        padding-left: 100px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-right: 40px;
+        border-radius: 20px;
+    }
+
+    #second-banner {
+        display: flex;
+        flex-direction: column;
+    }
+}
